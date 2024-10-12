@@ -1,6 +1,6 @@
 ;Settings
-sens:=2.51
-zoomsens:=1
+sens:=5
+zoomsens:=1.5
 
 ;Key binds
 key_AK:="F4"
